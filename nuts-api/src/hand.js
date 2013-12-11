@@ -5,3 +5,5 @@ function Hand(firstCard, secondCard){
 }
 
 Hand.prototype = {}
+
+module.exports = Hand;
